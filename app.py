@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 # Add your own Firebase configuration details
 config = {
-    'apiKey': "AIzaSyDM9hliIUZ1a1ukwLlAtQ4BOr1sNuRnULA",
+    'apiKey': "",
     'authDomain': "flask-f123e.firebaseapp.com",
     'projectId': "flask-f123e",
     'storageBucket': "flask-f123e.appspot.com",
